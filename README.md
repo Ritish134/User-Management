@@ -106,7 +106,7 @@ Used MongoDB for the database.
    cd your-project
    npm install
 
-3. Set up environment variables:
+3. Set up environment variables: <br>
   Create a .env file and add the configuration variables `MONGO_URI`, `JWT_SECRET`
 
 4. Run the application:
